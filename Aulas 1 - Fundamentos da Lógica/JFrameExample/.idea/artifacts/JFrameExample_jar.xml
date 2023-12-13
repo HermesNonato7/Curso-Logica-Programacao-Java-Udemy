@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JFrameExample:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JFrameExample_jar</output-path>
+    <root id="archive" name="JFrameExample.jar">
+      <element id="module-output" name="JFrameExample" />
+    </root>
+  </artifact>
+</component>
